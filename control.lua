@@ -1,4 +1,5 @@
 require("util/class")
+require('scripts/pollution-calc')
 
 local pCalc = PollutionCalc()
 

@@ -1,1 +1,1 @@
-require('prototypes/tools')
+require('prototypes/tool')
