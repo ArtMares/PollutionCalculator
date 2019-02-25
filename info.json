@@ -1,0 +1,11 @@
+{
+    "name": "PollutionCalculator",
+    "version": "1.0.0",
+    "title": "Pollution Calctulator Tool",
+    "author": "ArtMares, ViridiVir",
+    "description": "Adds a tool to quantify the pollution produced by entities",
+    "factorio_version": "0.16",
+    "dependencies": [
+        "base >= 0.16.51"
+    ]
+}
